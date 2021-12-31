@@ -1,2 +1,3 @@
-# Proyecto-28
-Proyecto 28 ByJus
+# Plantilla C28
+
+Plantilla C28
